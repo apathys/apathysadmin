@@ -1,0 +1,12 @@
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Common\bin\Debug\netcoreapp3.1\Common.dll
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Common\bin\Debug\netcoreapp3.1\Common.pdb
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Common\obj\Debug\netcoreapp3.1\Common.csproj.CopyComplete
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Common\obj\Debug\netcoreapp3.1\Common.dll
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Common\obj\Debug\netcoreapp3.1\Common.pdb
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Common\bin\Debug\netcoreapp3.1\XxsModel.dll
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Common\bin\Debug\netcoreapp3.1\XxsModel.pdb

@@ -1,0 +1,15 @@
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\EFData\bin\Debug\netcoreapp3.1\EFData.deps.json
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\EFData\bin\Debug\netcoreapp3.1\EFData.runtimeconfig.json
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\EFData\bin\Debug\netcoreapp3.1\EFData.runtimeconfig.dev.json
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\EFData\bin\Debug\netcoreapp3.1\EFData.dll
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\EFData\bin\Debug\netcoreapp3.1\EFData.pdb
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\EFData\bin\Debug\netcoreapp3.1\XxsModel.dll
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\EFData\bin\Debug\netcoreapp3.1\XxsModel.pdb
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\EFData\obj\Debug\netcoreapp3.1\EFData.csproj.AssemblyReference.cache
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\EFData\obj\Debug\netcoreapp3.1\EFData.AssemblyInfoInputs.cache
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\EFData\obj\Debug\netcoreapp3.1\EFData.AssemblyInfo.cs
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\EFData\obj\Debug\netcoreapp3.1\EFData.csproj.CoreCompileInputs.cache
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\EFData\obj\Debug\netcoreapp3.1\EFData.csproj.CopyComplete
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\EFData\obj\Debug\netcoreapp3.1\EFData.dll
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\EFData\obj\Debug\netcoreapp3.1\EFData.pdb
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\EFData\obj\Debug\netcoreapp3.1\EFData.genruntimeconfig.cache

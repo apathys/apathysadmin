@@ -1,0 +1,32 @@
+﻿
+    .attach
+    {
+        float: left;
+        display: inline;
+        border: 1px solid #ccc;
+        margin: 5px 5px 5px 0px;
+    }
+
+    .attach span,.attach a
+    {
+        display: block;
+        display: inline;
+        float: left;
+        line-height:20px;
+        height:20px;
+        margin-left:5px;
+    }
+
+    .close
+    {
+        height: 20px;
+        width: 20px;
+        cursor:pointer;
+        background: url(../images/attclose.png) no-repeat 4px 5px;
+    }
+
+    .close:hover
+    {
+        cursor:pointer;
+        background: url(../images/attclose.png) no-repeat 4px -29px;
+    }

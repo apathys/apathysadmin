@@ -1,0 +1,39 @@
+﻿body, button, input, select, textarea {
+    font: 12px/1.5 '微软雅黑',arial,'Hiragino Sans GB','\5b8b\4f53',sans-serif;
+}
+
+html {
+    color: -internal-root-color;
+}
+
+.jz_web_container {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.g_header {
+    background: rgba(51,51,51,1);
+}
+
+.jz_web_header {
+    display: block;
+}
+
+.g_header__static .g_header_content {
+    background: rgba(51,51,51,1);
+}
+
+.g_header_content {
+    -webkit-transition: all .3s;
+    -o-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
+    background-color: #fff;
+    position: relative;
+    z-index: 99;
+}
+
+div {
+    display: block;
+}

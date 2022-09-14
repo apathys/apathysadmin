@@ -1,0 +1,16 @@
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.AssemblyReference.cache
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Repository\bin\Debug\netcoreapp3.1\Common.dll
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Repository\bin\Debug\netcoreapp3.1\EFData.dll
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Repository\bin\Debug\netcoreapp3.1\Common.pdb
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Repository\bin\Debug\netcoreapp3.1\EFData.pdb
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Repository\bin\Debug\netcoreapp3.1\XxsModel.dll
+E:\project\2022\直播\StudentSystem\StudentInfoSystem\Repository\bin\Debug\netcoreapp3.1\XxsModel.pdb
